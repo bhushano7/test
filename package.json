@@ -12,6 +12,7 @@
 		"http": "~0.0"
 	},
 	"scripts": {
+		"test": "node lib/wrio.js"
 		"start": "node lib/wrio.js"
 	}
 }
